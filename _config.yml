@@ -1,0 +1,14 @@
+name: Modern Culture
+layout_spectrum: 0.19196750431660836
+typography_spectrum: 0.9653361119089262
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.3582336658608447
+  lightness: 0.5514549825966207
+  saturation: 0.7676851701167022
+  rhythmicContrast: 0.6797745718216293
